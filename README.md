@@ -4,6 +4,24 @@ Track your progress with an RPG-style leveling system in Obsidian. Gain experien
 
 ---
 
+## 🚨 Important
+### 📦 Install via NPM 
+
+If you prefer, install dependencies manually before using or building the plugin:
+
+```bash
+npm install
+```
+
+To build the plugin for distribution:
+
+```bash
+npm run build
+```
+
+This will generate the compiled version inside the `leveling_plugin/` folder, ready to use in `.obsidian/plugins/`.
+
+
 ### 🚀 Quick Start
 
 1. **Install Plugin**
@@ -23,9 +41,7 @@ Track your progress with an RPG-style leveling system in Obsidian. Gain experien
    Download the `Guideline - Leveling System.md` file and place it in a folder named `Guideline` inside your vault.
    It explains **in detail everything the plugin can do** and how to customize it fully.
 
----
 
-Would you like me to integrate this step into the **full README version** I formatted earlier (so you can paste it directly into your repository)?
 
 
 ---
