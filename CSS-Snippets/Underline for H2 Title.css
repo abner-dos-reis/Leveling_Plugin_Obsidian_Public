@@ -1,0 +1,5 @@
+/* Para headings H2 */
+.subtitlecss h2 {
+  border-bottom: 1px dotted;
+  padding-bottom: 3px;
+}

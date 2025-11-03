@@ -1,0 +1,5 @@
+/* Barra inferior igual ao dashboard, aplicada apenas com cssclass: titlecss */
+.titlecss h1 {
+  border-bottom: 1px dotted;
+  padding-bottom: 3px;
+}

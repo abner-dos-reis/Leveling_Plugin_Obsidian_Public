@@ -1,0 +1,6 @@
+/* Custom style for H3 in Obsidian */
+.heading3css h3 {
+  border-bottom: 1px dotted;
+  padding-bottom: 3px;
+}
+
