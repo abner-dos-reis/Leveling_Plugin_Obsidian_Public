@@ -4,7 +4,7 @@ cssclasses:
   - subtitlecss
 ---
 
-***A [[Guideline - Leveling System|Gamified System]] to Evolve Your Skills, Personas and Life.***
+***A [[Guideline - Leveling System|Gamified System]] to Evolve Your Skills and Life.***
 
 
 
