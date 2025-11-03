@@ -1,0 +1,10 @@
+{
+	"id": "leveling-plugin",
+	"name": "Leveling System",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "A leveling system plugin for Obsidian - Track your progress and gain experience as you write and organize your notes",
+	"author": "Abner dos Reis",
+	"authorUrl": "https://github.com/abner-dos-reis",
+	"isDesktopOnly": false
+}
