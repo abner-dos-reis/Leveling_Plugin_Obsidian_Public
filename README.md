@@ -100,6 +100,7 @@ There are conflicts between buffs and debuffs — for example, a Distraction deb
 
 Classes (Personas) are study/specialization roadmaps.
 Each class has subclasses and grants titles as you progress through the roadmap.
+> **Usually requiring tests to advance through each subclass.**
 
 ---
 
