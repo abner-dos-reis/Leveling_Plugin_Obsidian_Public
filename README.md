@@ -86,6 +86,8 @@ All notes in your vault are automatically scanned.
 - **Class System**
 - **Buff and Debuff System**
 
+> **I’ve already done that, but I’m testing it before releasing it here.**
+
 #### Buffs x Debuffs
 Buffs, when activated, grant EXP and apply an EXP multiplier.
 Debuffs steal EXP and reduce the EXP multiplier into the negative.
@@ -95,6 +97,9 @@ Buffs/Debuffs that reach EX rank become permanent.
 There are conflicts between buffs and debuffs — for example, a Distraction debuff steals EXP from the Focus buff, and vice versa, just like Focus weakens Distraction.
 
 > **There are buffs that come from skills, and skill buffs come from classes and are permanent.**
+
+That said, buffs and debuffs usually last only 24 hours.
+They can be **extended or assimilated** (in the case of buffs), or you can **beat them** (in the case of debuffs).
 
 #### Classes (Personas)
 
