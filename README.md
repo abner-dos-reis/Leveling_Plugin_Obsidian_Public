@@ -94,7 +94,7 @@ Buffs/Debuffs that reach EX rank become permanent.
 
 There are conflicts between buffs and debuffs — for example, a Distraction debuff steals EXP from the Focus buff, and vice versa, just like Focus weakens Distraction.
 
-Skills usually come from classes and are permanent.
+> **There are buffs that come from skills, and skill buffs come from classes and are permanent.**
 
 #### Classes (Personas)
 
