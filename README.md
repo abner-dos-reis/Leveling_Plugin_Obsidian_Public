@@ -81,6 +81,14 @@ All notes in your vault are automatically scanned.
 
 ---
 
+### ⚙️ Future Improvement
+
+- Class System
+- Buff and Debuff System
+
+
+---
+
 ### 📜 License
 
 **MIT License** — Free and open-source.
