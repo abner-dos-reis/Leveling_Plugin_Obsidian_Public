@@ -83,9 +83,23 @@ All notes in your vault are automatically scanned.
 
 ### ⚙️ Future Improvement
 
-- Class System
-- Buff and Debuff System
+- **Class System**
+- **Buff and Debuff System**
 
+#### Buffs x Debuffs
+Buffs, when activated, grant EXP and apply an EXP multiplier.
+Debuffs steal EXP and reduce the EXP multiplier into the negative.
+
+Buffs/Debuffs that reach EX rank become permanent.
+
+There are conflicts between buffs and debuffs — for example, a Distraction debuff steals EXP from the Focus buff, and vice versa, just like Focus weakens Distraction.
+
+Skills usually come from classes and are permanent.
+
+#### Classes (Personas)
+
+Classes (Personas) are study/specialization roadmaps.
+Each class has subclasses and grants titles as you progress through the roadmap.
 
 ---
 
