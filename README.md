@@ -109,6 +109,13 @@ Each class has subclasses and grants titles as you progress through the roadmap.
 
 ---
 
+The best part? You define all of this using the notes’ YAML.
+
+The guideline explains everything, **but CSS snippets are required** to visualize it properly!
+Just like **Templater**, they’re also necessary.
+
+---
+
 ### 📜 License
 
 **MIT License** — Free and open-source.
