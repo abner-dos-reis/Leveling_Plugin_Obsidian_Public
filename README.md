@@ -94,12 +94,14 @@ Debuffs steal EXP and reduce the EXP multiplier into the negative.
 
 Buffs/Debuffs that reach EX rank become permanent.
 
-There are conflicts between buffs and debuffs — for example, a Distraction debuff steals EXP from the Focus buff, and vice versa, just like Focus weakens Distraction.
+There are conflicts between buffs and debuffs, for example, a Distraction debuff steals EXP from the Focus buff, and vice versa, just like Focus weakens Distraction.
 
 > **There are buffs that come from skills, and skill buffs come from classes and are permanent.**
 
 That said, buffs and debuffs usually last only 24 hours.
-They can be **extended or assimilated** (in the case of buffs), or you can **beat them** (in the case of debuffs).
+They can be **extended or assimilated** (in the case of buffs), or you can **beat them** (in the case of debuffs) to end them immediately.
+Debuffs that have reached **permanent status through EX rank** can lose their permanence if their EXP drops.
+Buffs, however, **never lose their permanence** once achieved.
 
 #### Classes (Personas)
 
@@ -109,7 +111,7 @@ Each class has subclasses and grants titles as you progress through the roadmap.
 
 ---
 
-The best part? You define all of this using the notes’ YAML.
+The best part? You define all of this using the notes’ YAML (Daily Notes or Any Note).
 
 The guideline explains everything, **but CSS snippets are required** to visualize it properly!
 Just like **Templater**, they’re also necessary.
